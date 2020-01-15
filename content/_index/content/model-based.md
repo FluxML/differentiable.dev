@@ -2,9 +2,9 @@
 fragment = "item"
 weight = 200
 align = "right" # Default is center, can be left, right or center
+title = "Model-Based Reinforcement Learning"
+background = "secondary"
 +++
-# Model-Based Reinforcement Learning
-
 Model-based reinforcement learning has advantages over model-agnostic methods, given that an
 effective agent must approximate the dynamics of its environment. However, model-based
 approaches have been hindered by the inability to incorporate realistic environmental models into
