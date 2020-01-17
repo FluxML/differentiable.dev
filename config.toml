@@ -1,7 +1,7 @@
 # Site settings
 baseurl = "/"
-languageCode = "en-us"
-title = "differentiable.dev"
+languageCode = "en-uk"
+title = "Differentiable Programming"
 theme = "syna"
 enableGitInfo = true
 version = "0.15.0"
@@ -43,7 +43,7 @@ googleAnalytics = ""
     pro = false
 
   [params.colors]
-    primary = "#66838F"
+    primary = "rgb(20, 60, 60)"
     secondary = "#CCDCDC"
     success = "#008f54"
     info = "#00c9dc"
@@ -59,11 +59,6 @@ googleAnalytics = ""
     url = "/"
     name = "Home"
     weight = 10
-
-  [[menu.main]]
-    url = "/progress"
-    name = "Progress"
-    weight = 20
 
   # [[menu.main]]
   #   url = "#contact"

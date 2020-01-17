@@ -1,0 +1,10 @@
+@import url("https://fonts.googleapis.com/css?family=Lato:400,400i");
+
+body {
+  font-family:Lato,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
+}
+
+h1.hero-title {
+  font-weight: bold;
+  color: white !important;
+}
