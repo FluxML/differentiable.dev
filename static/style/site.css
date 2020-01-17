@@ -8,3 +8,7 @@ h1.hero-title {
   font-weight: bold;
   color: white !important;
 }
+
+section a {
+  text-decoration: underline;
+}
